@@ -1,0 +1,18 @@
+{
+    "name": "noah/logging-sensitive-data",
+    "description": "A package to hidden sensitive data in log",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Noah\\LoggingSensitiveData\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DuyND",
+            "email": "nguyendinhduy221995@gmail.com"
+        }
+    ],
+    "require": {}
+}
